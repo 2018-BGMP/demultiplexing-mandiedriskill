@@ -1,0 +1,59 @@
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read with low quality score
+CCTTCGAC
++
+########
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read with good quality score
+CCTTCGAC
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read with N
+NTTTTTTT
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read with no N
+TTTTTTTT
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read not in dictionary
+GGGGGGGG
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read not in dictionary
+TTTTTTTT
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read in dictionary
+TACGCTAC
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read  in dictionary
+TACGCTAC
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read  in dictionary and match
+GCTATCCT
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read  in dictionary and match
+GCTATCCT
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-read  in dictionary, match, bad QS
+GCTATCCT
++
+########
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-reads with Key not in dictionary and match 
+ATCCGGTA
++
+JJJJJJJJ
+@K00337:83:HJKJNBBXX:8:1101:1347:1191 1:N:0:1-reads with Key in dictionary and don't match 
+CGCATGAT
++
+JJJJJJJJ
+
+
+
+
+
+
+
